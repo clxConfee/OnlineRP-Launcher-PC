@@ -1,2 +1,2 @@
-# OnlineRP-Launcher-PC
-version 1.4
+# Minecraft launcher WorldZerol
+version 0.2
